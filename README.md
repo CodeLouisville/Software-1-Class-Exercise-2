@@ -1,4 +1,4 @@
-# Software 1 - Class Exercise 3: Pet Store Part 2
+# Software 1 - Class Exercise 3
 ## Goals
 - Learn how to use the 2 most commonly used collections: List and Dictionary.
 
